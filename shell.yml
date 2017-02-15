@@ -1,0 +1,7 @@
+shell:
+    name: Generic Resource
+    author: Aaron Rueth
+    email: info@quali.com
+    description: Generic resource shell
+    version: 0.1.0
+    driver_name: Generic Resource Driver

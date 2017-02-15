@@ -1,0 +1,5 @@
+<Driver Description="Generic resource shell" MainClass="driver.GenericResourceDriver" Name="GenericResourceDriver" Version="0.1.0">
+    <Layout>
+        <Command Name="run_command" DisplayName="Run Command" Tags="" Description="Run command on the resource"/>
+    </Layout>
+</Driver>
